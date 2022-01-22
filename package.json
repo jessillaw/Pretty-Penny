@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jessillaw/Pretty-Penny/issues"
   },
-  "homepage": "https://github.com/jessillaw/Pretty-Penny#readme"
+  "homepage": "https://github.com/jessillaw/Pretty-Penny#readme",
+  "dependencies": {
+    "expo": "^1.0.0"
+  }
 }
